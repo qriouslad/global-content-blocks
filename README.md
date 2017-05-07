@@ -4,7 +4,7 @@ This is a fork of the WordPress plugin originally published at https://wordpress
 
 ## Download and Install
 
-[**Click here**](https://github.com/qriouslad/global-content-blocks/archive/master.zip) to download latest version of the plugin before it was pulled off of the wordpress.org repository. Manually upload via wp-admin to install the plugin.
+[**Click here**](https://github.com/qriouslad/global-content-blocks/archive/master.zip) to download latest version of the plugin before it was pulled off from the wordpress.org repository. Manually upload via wp-admin to install the plugin.
 
 **Note:** There appears to be security issues behind the disappearance of the plugin from the wordpress.org repository, which you can read more about in [this support forum thread](https://wordpress.org/support/topic/what-happened-to-global-content-blocks/).
 
