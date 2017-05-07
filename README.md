@@ -2,6 +2,12 @@
 
 This is a fork of the WordPress plugin originally published at https://wordpress.org/plugins/global-content-blocks/ (preview via [Wayback Machine](https://web.archive.org/web/20160405173012/https://wordpress.org/plugins/global-content-blocks/))
 
+## Download and Install
+
+[**Click here**](https://github.com/qriouslad/global-content-blocks/archive/master.zip) to download latest version of the plugin before it was pulled off of the wordpress.org repository. Manually upload via wp-admin to install the plugin.
+
+**Note:** There appears to be security issues behind the disappearance of the plugin from the wordpress.org repository, which you can read more about in [this support forum thread](https://wordpress.org/support/topic/what-happened-to-global-content-blocks/).
+
 ## Original readme.txt
 
 ### Global Content Blocks
@@ -17,7 +23,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Creates shortcodes to add HTML, PHP, forms, opt-ins, iframes, Adsense, code snippets, reusable objects, etc, to posts/pages, and preserves formatting. Ideal for adding reusable objects to your content or to preserve formatting of code that normally gets stripped out or reformatted by the editor. See the <a href="http://micuisine.com/content-block-plugins/global-content-blocks/" target="_blank">General Usage</a> page for complete instructions.
 
-#### Description
+#### DESCRIPTION
 
 **Global Content Blocks** lets you create your own shortcodes to insert reusable code snippets, PHP or HTML including forms, opt-in boxes, iframes, Adsense code, etc, into pages and posts as well as widgets and directly into php content. You can insert them directly using  shortcodes or via a button in the TinyMCE visual editor toolbar. You can also insert the entire content of the Content Block instead of the shortcode or use other shortcodes within the Content Block. You can also modify the output of the Content Block via a hook.
 
@@ -33,7 +39,7 @@ As featured on ManageWP Blog (http://managewp.com/global-content-blocks) and Spa
 
 If you have any feedback, issues or suggestions for improvements please leave a comment on the plugin homepage and if you like the plugin please give it a rating at http://wordpress.org/extend/plugins/global-content-blocks :-)
 
-#### Installation
+#### INSTALLATION
 
 1. Download the **global-content-blocks.zip** file to your local machine.
 2. Either use the automatic plugin installer *(Plugins - Add New)* or Unzip the file and upload the **global-content-blocks** folder to your **/wp-content/plugins/** directory.
@@ -42,7 +48,7 @@ If you have any feedback, issues or suggestions for improvements please leave a 
 5. Insert the Content Block into pages or posts using the button on the editor tool bar or by inserting the shortcode **[contentblock id=xx]** where **xx** is the ID number of the Content Block.
 
 
-#### Frequently Asked Questions
+#### FREQUENTLY ASKED QUESTIONS
 
 ##### How big a content block can I add?
 The content block will hold up to 64,000 characters.
@@ -97,14 +103,14 @@ Yes, there is an option to delete the database table if you want to completely r
 ##### Can I copy any content blocks I've created to another WordPress site?
 Yes, an Import/Export function is included. Just Export form one site, install the plugin on the other site and import.
 
-#### Screenshots
+#### SCREENSHOTS
 
 1. The Settings page
 2. Adding a new Content Block
 3. Inserting a Content Block using the toolbar button
 4. Inserting a Content Block using the shortcode
 
-#### Changelog
+#### CHANGELOG
 
 ##### 2.1.5
 * Changed auto paragraphs in Tiny MCE
